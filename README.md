@@ -1,2 +1,2 @@
 # MLfromScratch
-Machine Learning algorithm implementations from scratch.
+Decided to rebuild the wheel and implement some ML algos from scratch. 
